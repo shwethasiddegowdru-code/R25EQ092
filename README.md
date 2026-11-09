@@ -5,3 +5,5 @@
    - Learning Python
 
    - Interested in cloud computing
+
+   - Goal: contribute to open source
