@@ -7,3 +7,6 @@
    - Interested in cloud computing
 
    - Goal: contribute to open source
+
+      ## Projects
+   Planning to build a personal portfolio website and a simple C-based calculator.
